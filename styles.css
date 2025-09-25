@@ -12,11 +12,7 @@ header {
   
    }
 
-p {
-  margin: 2%;
-  padding: 2%;
 
-}
-.text-body {
+div .text-body {
   padding: 2%;
 }
