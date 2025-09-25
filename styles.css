@@ -1,3 +1,10 @@
+/* Universal Reset (can be more specific if needed) */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /* Optional, but recommended for consistent box model behavior */
+}
+
 html, body{
   font-family: Arial, sans-serif;
   background-color: pink;
