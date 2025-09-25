@@ -16,6 +16,7 @@ header {
   background-color: black;
   color: white;
   margin: 0;
+    padding: 2%;
   
    }
 h1 {
@@ -23,6 +24,6 @@ h1 {
 }
 
 
-div .text-body {
+.text-body {
   padding: 2%;
 }
