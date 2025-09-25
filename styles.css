@@ -6,7 +6,8 @@ body{
 
 header {
   background-color: black;
-  color:white;
+  color: white;
   margin: 0;
+  display:flex;
   
    }
