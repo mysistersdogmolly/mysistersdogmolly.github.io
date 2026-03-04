@@ -1,23 +1,29 @@
-2. How Password Attacks Actually Work (And How to Stop Them)
+---
+title: "How Password Attacks Actually Work (And How to Stop Them)"
+date: 2026-03-04
+---
 
-Break down common attack methods.
 
-Cover things like:
 
-Brute force attacks
 
-Dictionary attacks
+## Break down common attack methods.
 
-Credential stuffing
+### Cover things like:
 
-Rainbow tables
+- Brute force attacks
 
-Password spraying
+- Dictionary attacks
 
-Then explain defenses like:
+- Credential stuffing
 
-Password managers
+- Rainbow tables
 
-MFA
+- Password spraying
 
-Account lockout policies
+### Then explain defenses like:
+
+- Password managers
+
+- MFA
+
+- Account lockout policies
